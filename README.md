@@ -1,2 +1,2 @@
 # ReflowOven
-The source code for my reflow oven, WARNING use are your own risk. 
+The source code for my reflow oven, WARNING use at your own risk. 
