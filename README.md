@@ -22,7 +22,7 @@ Whilst this can be a fun and challenging project for the intermediate experience
 
 ## BOM
 ### (WIP that needs better details, however, it's been a long day and I'm a bit worn. Will update soon.)
-- Arduino Pro Nano
+- Arduino Pro Mini
 - Nextion HMI TFT 3.5" Display
 - 20A Solid State Relay
 - Quartz Heating Elements
