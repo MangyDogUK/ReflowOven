@@ -18,7 +18,7 @@ Whilst this can be a fun and challenging project for the intermediate experience
 
 ## Links
 ### The Project YouTube Video: https://www.youtube.com/watch?v=BncBolIe5Jo
-### https://www.patreon.com/MangyDogBuilds
+### My Patreon: https://www.patreon.com/MangyDogBuilds
 
 ## BOM
 - Arduino Pro Mini
